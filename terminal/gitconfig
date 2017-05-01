@@ -1,6 +1,6 @@
 [user]
-	email = fangwentong2012@gmail.com
-	name = 房文同
+	email = hexiang708@gmail.com
+	name = Xiang HE
 [color]
 	ui = true
     status = auto
@@ -25,3 +25,5 @@
 	clean = git lfs clean %f
 	smudge = git lfs smudge %f
 	required = true
+[push]
+	default = matching
